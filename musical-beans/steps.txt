@@ -1,0 +1,6 @@
+Run in IE or edge or firefox
+
+In IE select internet options> 
+In advanced>
+check boxes Allow active Contenets from CDs to run and Allow active Content to run in files under
+Security option.In security enable Active scripting under Scripting.
